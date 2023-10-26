@@ -1,13 +1,11 @@
 body {background-color: rgb(14 14 14); 
-    font-family: Georgia, serif;
-}
+    font-family: Georgia, serif; }
+    
 h1 {color: #FF6E00; 
-    text-align: center;
-}
-.navbar-nav .nav-item .nav-link {color: white ; }
-.navbar-nav .nav-link
-.navbar-nav .nav-item:hover .nav-link {color: grey; 
-                                        font-weight: bold; }
-.nav-item.active {font-size: 18px; 
-                 color: grey; 
+    text-align: center; }
+.navbar-nav .nav-item .nav-link {color: #CCCACA ; }
+
+.nav-item:hover {font-weight: bold}
+
+.nav-item.active {color: grey; 
                  font-weight: bold; }
