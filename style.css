@@ -9,3 +9,6 @@ h1 {color: #FF6E00;
 
 .nav-item.active {color: grey; 
                  font-weight: bold; }
+
+img {margin-left: auto
+    margin-right: auto; }
