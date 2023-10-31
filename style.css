@@ -10,5 +10,18 @@ h1 {color: #FF6E00;
 .nav-item.active {color: grey; 
                  font-weight: bold; }
 
-img {margin-left: auto
-    margin-right: auto; }
+.img-fluid {max-width: 30%;
+            height: auto;
+            margin-left: 20px}
+
+.jumbotron {background-color: #9A989E; 
+            color: rgb(14 14 14) }
+        
+
+.news {font-size: 22px; 
+        margin-left: 100px; 
+    color: rgb(14 14 14); }
+
+h2 {color: rgb(14 14 14); }
+
+.btn .btn-primary .btn-large {margin-left: 100px; }
