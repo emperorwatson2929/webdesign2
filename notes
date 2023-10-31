@@ -1,2 +1,7 @@
 orange: #FF6E00
 black: rgb(14 14 14)
+
+various greys:
+    ship grey: #49484C
+    mountain mist: #9A989E
+    jumbo: #858389
