@@ -2,7 +2,17 @@ body {background-color: rgb(14 14 14);
     font-family: Georgia, serif; }
     
 h1 {color: #FF6E00; 
-    text-align: center; }
+    text-align: center;
+}
+    
+h2 {color: #FF6E00; 
+    text-align: center;
+}
+    
+h3 {color: #FF6E00; 
+    text-align: center;
+}
+
 .navbar-nav .nav-item .nav-link {color: #CCCACA ; }
 
 .nav-item:hover {font-weight: bold}
@@ -22,4 +32,8 @@ h1 {color: #FF6E00;
         margin-left: 100px; 
     color: rgb(14 14 14); }
 
-h2 {color: rgb(14 14 14); }
+.latestnews {color: rgb(14 14 14); }
+
+.error {color: #FF6E00; 
+    text-align: center;
+    font-size: 19pt; }
