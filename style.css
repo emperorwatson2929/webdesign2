@@ -1,5 +1,6 @@
 body {background-color: rgb(14 14 14); 
-    font-family: Georgia, serif; }
+    font-family: Georgia, serif; 
+}
     
 h1 {color: #FF6E00; 
     text-align: center;
@@ -13,22 +14,26 @@ h3 {color: #FF6E00;
     text-align: center;
 }
 
-.navbar-nav .nav-item .nav-link {color: #CCCACA ; }
+.navbar-nav .nav-item .nav-link {color: #CCCACA ; 
+}
 
-.nav-item:hover {font-weight: bold}
+.nav-item:hover {font-weight: bold
+}
 
 .nav-item.active {color: grey; 
-                 font-weight: bold; }
+                 font-weight: bold; 
+}
 
 .img-fluid {max-width: 30%;
             height: auto;
-            margin-left: 20px}
+            margin-left: 20px; 
+}
 
 .jumbotron {background-color: #9A989E; 
             color: rgb(14 14 14) }
         
 
-.news {font-size: 22px; 
+.news {font-size: 18pt; 
         margin-left: 100px; 
     color: rgb(14 14 14); }
 
@@ -36,4 +41,13 @@ h3 {color: #FF6E00;
 
 .error {color: #FF6E00; 
     text-align: center;
-    font-size: 19pt; }
+    font-size: 4vw; }
+
+.pagination-lg {margin-left: 400px; }
+
+a.page-link
+    {
+    background-color: #716258;
+    color: #F3F7F8;
+    font-size: ;
+    }
