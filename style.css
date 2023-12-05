@@ -1,45 +1,23 @@
-body {background-color: rgb(14 14 14); 
-    font-family: Georgia, serif; 
-}
+.index {background-color: #e5dbe4; 
+    font-family: Georgia, serif; }
     
-h1 {color: #FF6E00; 
-    text-align: center;
-}
+h1 {color: #050903; 
+    text-align: center; }
     
-h2 {color: #FF6E00; 
-    text-align: center;
-}
-    
-h3 {color: #FF6E00; 
-    text-align: center;
-}
+h2 {color: #050903; 
+    text-align: center; }
 
-.navbar-nav .nav-item .nav-link {color: #CCCACA ; 
-}
+.nav-item:hover {font-weight: bold; }
 
-.nav-item:hover {font-weight: bold
-}
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {font-weight: bold; 
+                                        color: #896f58; }
+.jumbotron {background-color: ; 
+            color: 
 
-.nav-item.active {color: grey; 
-                 font-weight: bold; 
-}
+.latestnews {color: #F6E1D1; }
 
-.img-fluid {max-width: 30%;
-            height: auto;
-            margin-left: 20px; 
-}
-
-.jumbotron {background-color: #9A989E; 
-            color: rgb(14 14 14) }
-        
-
-.news {font-size: 18pt; 
-        margin-left: 100px; 
-    color: rgb(14 14 14); }
-
-.latestnews {color: rgb(14 14 14); }
-
-.error {color: #FF6E00; 
+.error {color: ; 
     text-align: center;
     font-size: 4vw; }
 
@@ -47,7 +25,13 @@ h3 {color: #FF6E00;
 
 a.page-link
     {
-    background-color: #716258;
-    color: #F3F7F8;
+    background-color: ;
+    color: ;
     font-size: ;
     }
+
+.img-fluid {height: auto;
+            width: 1px; }
+            
+.albums {background-color: #e5dbe4; 
+    font-family: Georgia, serif; }
