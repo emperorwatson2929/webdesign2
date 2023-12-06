@@ -1,11 +1,21 @@
 .index {background-color: #e5dbe4; 
     font-family: Georgia, serif; }
     
-h1 {color: #050903; 
-    text-align: center; }
+.header {color: #050903; 
+    text-align: center; 
+    background-color: #f6e1d1; 
+    margin-left: 40%;
+    margin-right: 40%;
+    border: inset 8px #f0bcc0;
+}
     
-h2 {color: #050903; 
-    text-align: center; }
+.latestnews {color: #050903; 
+    text-align: center; 
+    background-color: #white;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: outset 6px #9E9EA9; 
+}
 
 .nav-item:hover {font-weight: bold; }
 
@@ -14,8 +24,6 @@ h2 {color: #050903;
                                         color: #896f58; }
 .jumbotron {background-color: ; 
             color: 
-
-.latestnews {color: #F6E1D1; }
 
 .error {color: ; 
     text-align: center;
@@ -30,8 +38,8 @@ a.page-link
     font-size: ;
     }
 
-.img-fluid {height: auto;
-            width: 1px; }
+.img-fluid {margin-left: 500px;
+            margin-right: auto; }
             
 .albums {background-color: #e5dbe4; 
     font-family: Georgia, serif; }
