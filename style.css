@@ -22,13 +22,6 @@
                                         color: #896f58; 
                                         font-size: 12pt; }
 
-.jumbotron {background-color: ; 
-            color: }
-
-.error {color: ; 
-    text-align: center;
-    font-size: 4vw; }
-
 .pagination-lg {margin-left: 400px; }
 
 .img-fluid {padding-left: 150px; }
@@ -36,5 +29,13 @@
 .albums {background-color: #e5dbe4; 
     font-family: Georgia, serif; }
 
-.news {padding-left: 180px; 
+.news {text-align: center; 
         font-size: 15pt; }
+        
+.error {margin-left: 160px; }
+
+.errortext {text-align: center; }
+
+.nobody {text-align: center; }
+
+.newimage {text-align: center; }
